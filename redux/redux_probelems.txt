@@ -1,0 +1,12 @@
+We need to create
+
+-> Action
+-> Action Object
+-> Action creator
+-> Switch statement in a reducer
+
+
+A lot of other packages need to be installed
+
+-> redux-thunk
+-> immer

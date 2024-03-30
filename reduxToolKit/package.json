@@ -1,0 +1,22 @@
+{
+  "name": "reduxtoolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.2",
+    "axios": "^1.6.8",
+    "deep-diff": "^0.3.8",
+    "immer": "^10.0.4",
+    "redux": "^5.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^3.1.0",
+    "reselect": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
